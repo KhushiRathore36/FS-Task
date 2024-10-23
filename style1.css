@@ -1,0 +1,51 @@
+.container{
+    border:1px solid black;
+    
+}
+.col-12{
+   border:1px solid black;
+   text-align: center;
+}
+.col-1{
+    border:1px solid black;
+    text-align: center;
+}
+.col-3{
+    border:1px solid black;
+    text-align: center;
+}
+.col-2{
+    border:1px solid black;
+    text-align: center;
+    
+}
+.col-4{
+    border:1px solid black;
+    text-align: center;
+    
+}
+.col-1:hover {
+    background-color: deepskyblue;
+    cursor: pointer;
+}
+a:hover{
+    text-decoration: none;
+    color:black;
+}
+a{
+    text-decoration: none;
+    color:black;
+    display: flex;
+}
+.col-2:hover{
+    background-color: deepskyblue;
+    cursor: pointer;
+}
+.col-3:hover{
+    background-color: deepskyblue;
+    cursor: pointer;
+}
+.col-4{
+    background-color: deepskyblue;
+    cursor: pointer;
+}
